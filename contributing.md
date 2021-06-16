@@ -50,6 +50,9 @@ git branch set-url --push origin https://github.com/YOUR-USER-NAME/nyu-tanon-res
 git branch -u origin/main
 ```
 
+
+## Make sure all directory names are in lower case, just to keep a standard format
+
 **NOTE:** You should replace `YOUR-USER-NAME` with _your_ username.
 
 Now, whenever you type `git push` you'll push to your own forked repository, and when you type `git pull` you'll pull from nyu-tanon-resources's main repository.
